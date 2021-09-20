@@ -51,7 +51,7 @@ public class Maintask5 {
                     System.out.println("Чтобы узнать месяц введите числа от 1 до 12");
                     break;
             }
-
+break;
 
 
 
